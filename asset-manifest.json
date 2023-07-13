@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://maimengmeo.github.io/csb-8lp4hj/static/css/main.66898db1.chunk.css",
+    "main.js": "https://maimengmeo.github.io/csb-8lp4hj/static/js/main.23fa7ed2.chunk.js",
+    "main.js.map": "https://maimengmeo.github.io/csb-8lp4hj/static/js/main.23fa7ed2.chunk.js.map",
+    "runtime-main.js": "https://maimengmeo.github.io/csb-8lp4hj/static/js/runtime-main.64e79c85.js",
+    "runtime-main.js.map": "https://maimengmeo.github.io/csb-8lp4hj/static/js/runtime-main.64e79c85.js.map",
+    "static/css/2.68e31a66.chunk.css": "https://maimengmeo.github.io/csb-8lp4hj/static/css/2.68e31a66.chunk.css",
+    "static/js/2.493b5a61.chunk.js": "https://maimengmeo.github.io/csb-8lp4hj/static/js/2.493b5a61.chunk.js",
+    "static/js/2.493b5a61.chunk.js.map": "https://maimengmeo.github.io/csb-8lp4hj/static/js/2.493b5a61.chunk.js.map",
+    "index.html": "https://maimengmeo.github.io/csb-8lp4hj/index.html",
+    "static/css/2.68e31a66.chunk.css.map": "https://maimengmeo.github.io/csb-8lp4hj/static/css/2.68e31a66.chunk.css.map",
+    "static/css/main.66898db1.chunk.css.map": "https://maimengmeo.github.io/csb-8lp4hj/static/css/main.66898db1.chunk.css.map",
+    "static/js/2.493b5a61.chunk.js.LICENSE.txt": "https://maimengmeo.github.io/csb-8lp4hj/static/js/2.493b5a61.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64e79c85.js",
+    "static/css/2.68e31a66.chunk.css",
+    "static/js/2.493b5a61.chunk.js",
+    "static/css/main.66898db1.chunk.css",
+    "static/js/main.23fa7ed2.chunk.js"
+  ]
+}
